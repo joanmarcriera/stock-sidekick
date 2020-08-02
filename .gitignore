@@ -1,4 +1,7 @@
+#My specifics
 .DS_Store
+.vscode/
+stocks.code-workspace
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
