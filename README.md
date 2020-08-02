@@ -11,4 +11,11 @@ Small scripts to support trading strategies
  - [ ]  Run several strategies and return table of backtest results $ , for comparison. 
  - [ ]  Visualize the wining strategy. (or selected)
 
-    
+
+# Inspirations
+
+https://github.com/constverum/Quantdom
+
+https://github.com/anfederico/Clairvoyant
+
+https://www.highshortinterest.com/nasdaq/
